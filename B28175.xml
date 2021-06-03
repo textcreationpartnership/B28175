@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Pleasant battle between two lap dogs of the Utopian court, or, A Dialogue between asleep and awake, jest and earnest, reality and fancy being fought upon the new erected dog-pit lately contrived purposely upon this occasion as aforesaid in the anti-chamber of the said court ...</title>
+         </titleStmt>
+         <extent>Approx. 15KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B28175</idno><idno type="EEBO-CITATION">11244506</idno>
+  <idno type="VID">204985</idno>
+  <idno type="EEBO-PROQUEST">2248495793</idno>
+  
+            <idno type="STC">Wing P2537</idno>
+            <idno type="OCLC">11244506</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B28175)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 204985)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1448:23)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Pleasant battle between two lap dogs of the Utopian court, or, A Dialogue between asleep and awake, jest and earnest, reality and fancy being fought upon the new erected dog-pit lately contrived purposely upon this occasion as aforesaid in the anti-chamber of the said court ...</title>
+               </titleStmt>
+               <extent>[4] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for R.B.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1681.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Satire on Charles II's mistresses Nell Gwyn and the Duchess of Portsmouth.</note>
+                  <note>Reproduction of original in the University of Illinois (Urbana-Champaign Campus). Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Gwyn, Nell, 1650-1687 --  Anecdotes.</term>
+               <term type="personal_name">Kéroualle, Louise-Renée de, --  Duchess of Portsmouth and Aubigny, 1649-1734.</term>
+               <term type="topical_term">Favorites, Royal --  Anecdotes</term>
+               <term type="geographic_name">Great Britain --  History --  Charles II, 1660-1685 --  Anecdotes</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-11 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-11 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:204985:1"/>
+            <pb facs="tcp:204985:1"/>
+            <head>A Pleasant BATTLE Between Two Lap Dogs OF THE Utopian Court. OR, A Dialogue between Sleep and Awake, Jest and Earnest, Reality and Fancy: Being fought upon the new erected <hi>DOG-PIT,</hi> lately contrived purposely upon this Occasion as aforesaid in the Anti-Chamber of the said Court, where it was fought with great Applause, Satis<g ref="char:EOLhyphen"/>faction and Content of the Company there pre<g ref="char:EOLhyphen"/>sent: But by Reason of the Authors Drowzy Disposition, being late at Night, and he inclin'd to sleep: He would crave your favorable Cen<g ref="char:EOLhyphen"/>sures of this his Pains; and judg of them as you find Occasion.</head>
+            <stage>Enter Two Lap-Dogs, <hi>Tutty</hi> and <hi>Snap-short.</hi>
+            </stage>
+            <lg>
+               <head>Reader,</head>
+               <l>
+                  <hi>WISE</hi> Aesop <hi>thought it no Mistake</hi>
+               </l>
+               <l>
+                  <hi>To make brute Beasts, as well as men to speak:</hi>
+               </l>
+               <l>
+                  <hi>Why may not I, like him, in harmeless Rhymes,</hi>
+               </l>
+               <l>
+                  <hi>Bring Brutes to speak against the brutish times?</hi>
+               </l>
+               <l>
+                  <hi>When Sin swells high, it needs a sharp Correction:</hi>
+               </l>
+               <l>
+                  <hi>Ile give you here a brief yet full Collection,</hi>
+               </l>
+               <l>
+                  <hi>By such a Catalogue of nasty Sin,</hi>
+               </l>
+               <l>
+                  <hi>As</hi> Sodom <hi>almost loath'd to wallow in:</hi>
+               </l>
+               <l>
+                  <hi>First, I present Two</hi> Lap-dogs <hi>on the Stage,</hi>
+               </l>
+               <l>
+                  <hi>Who strike the hidden Vices of the Age,</hi>
+               </l>
+               <l>
+                  <hi>With so much Vigour, as it will suprize</hi>
+               </l>
+               <l>
+                  <hi>Your Senses all, your hearts, your ears, your eyes:</hi>
+               </l>
+               <l>
+                  <hi>The English</hi> Lap-dog <hi>here do's first begin</hi>
+               </l>
+               <l>
+                  <hi>The Vindication of his Lady</hi> Gw—</l>
+               <l>
+                  <hi>The other much more Frenchifi'd, ah lass,</hi>
+               </l>
+               <l>
+                  <hi>Shews what his Lady is, not what she was.</hi>
+               </l>
+               <l>
+                  <hi>From Words they rise to Blows, as people say,</hi>
+               </l>
+               <l>
+                  <hi>Occasioned a sharp and bloody Fray.</hi>
+               </l>
+               <l>
+                  <hi>The Ladys looking on, each backd her Cur,</hi>
+               </l>
+               <l>
+                  <hi>Ʋntil they made such a foul filthy stir,</hi>
+               </l>
+               <l>
+                  <hi>As set all in an Ʋproar: this was Sport</hi>
+               </l>
+               <l>
+                  <hi>Did highly please the grand</hi> Utopian <hi>Court:</hi>
+               </l>
+               <l>
+                  <hi>The Battle being ended I awoke,</hi>
+               </l>
+               <l>
+                  <hi>And all the Vision vanish'd into Smoak.</hi>
+               </l>
+            </lg>
+            <pb facs="tcp:204985:2"/>
+            <sp>
+               <speaker>Tutty.</speaker>
+               <p>HOW now <hi>Snap-short,</hi> What out of your Ladys Lodgings at this time o'th Night? I'le teach the best French Cur of you all to come as a SPY into our Quarters at this unseasonable hour: What do you think your <hi>LADY</hi> is able to protect you <hi>ad secula seculorum?</hi> No, Sir, so long as I have an English Tooth in my Head they shall make bold to salute your French Ears, and in as rugged a manner as ever <hi>Don Quixot</hi> handled the Windmills: and so have at you —</p>
+            </sp>
+            <sp>
+               <speaker>Snap-short.</speaker>
+               <p>How now <hi>Tutty,</hi> Meddle with me, if you dare; I protest if you do, I will cry out TREASON! What assault me in Court? Be gar me see your English Love and Affection: but what have you to say to me, speak your mind, for, if it comes to blows, We have French enough to Eate you.</p>
+            </sp>
+            <sp>
+               <speaker>Tutty.</speaker>
+               <p>Eat me, you French Scundrel! Sirrah, you are a French pocky Rascal: and, tell your Lady from me, She is no better than the Devil can make her: before I would be a Dog to such a piece of monstrous Ingratitude, I protest, <hi>Snapshort,</hi> I would cut my own head off. My Lady is a good Common-wealths woman: Yours cares not if she be ruin'd to buoy her up amongst those troublesome Seas of Distruction which are raised to involve us in ruin: and indeed Ruine and she are so near a<g ref="char:EOLhyphen"/>kin, that she is out of her Element unless she be there.</p>
+            </sp>
+            <sp>
+               <speaker>Snap-short.</speaker>
+               <p>Come, <hi>Tutty,</hi> neither you, nor any of that Ladys Retinue durst affront me after this manner, were not my Lady a French Lady and a Romanist: But she may live, and I too, to see your Ladies Tail set up an end once more upon a Dung-hill.</p>
+            </sp>
+            <sp>
+               <speaker>Tutty.</speaker>
+               <p>You French Scundrel, inconsiderable, pregmatical, rustical, diabolical, musty, su<g ref="char:EOLhyphen"/>sty, rusty Puppy: You see my Lady's Tail set up as formerly? Sirrah, I would have you know, had it not been more out of my Ladies Intercession than out of re<g ref="char:EOLhyphen"/>spect to your Ladys Deserts, the grievance of the Nation had long agoe been Ex<g ref="char:EOLhyphen"/>posed to publick View.</p>
+            </sp>
+            <sp>
+               <speaker>Snap-short.</speaker>
+               <p>Come, <hi>Tutty,</hi> I see you can Bark, but dare not Bite, I am sure my Lady has Charms sufficient left her to controul another gus Kingdom than such as we are, a parcel of pury inconsiderable Lap-dogs, who dare hardly bark, but the whole world is ready to go together by the Ears. Such is the wretched condition of these miserable times.</p>
+            </sp>
+            <sp>
+               <speaker>Tutty.</speaker>
+               <p>And such is the Condition of these miserable times (as you call them) is still like to continue so long as your Mistriss is suffered thus to reign in her Roguery, were she more modest, it would never grumble in my gizard, but being so peremptory, vexes every vein of my heart. But Murder will out at last: Come, <hi>Snap-short,</hi> My Lady never yet to make her own private Gains endeavored the Ruine of the Na<g ref="char:EOLhyphen"/>tion.</p>
+            </sp>
+            <sp>
+               <speaker>Snap-short.</speaker>
+               <p>And prethee, <hi>Tutty,</hi> who did? For you seem to reflect upon my Lady: but for all your English brave Alls and Bragg<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>cio Tricks, you shall never make me be<g ref="char:EOLhyphen"/>lieve your Lady exceeds mine in point of Honour. A Lady undo a Nation? This I dare boldly say; If she undo a Nation, Its only to advance another: And this Brother <hi>Tutty</hi> holds good with the Scripture too, why was <hi>Joseph</hi> sent into Aegypt, but <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o help his Brethren in time of Dearth.</p>
+            </sp>
+            <sp>
+               <speaker>Tutty.</speaker>
+               <p>I<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> time of Dearth, <hi>Snap short,</hi> let me tell you without offence, Your Lady is one of <hi>Pharaoh</hi>'s lean Kine, she has almost devour'd a Kingdom: and yet her starv'd Car<g ref="char:EOLhyphen"/>cass would get a sick man an Appetite to look upon it: for she looks so ill favoured by sharp Countenance, that I protest when I saw her last; I would have given one of my Legs to have sav'd my Body; for she look'd so hungry, as if she would have Chopt me up at one mouthful: However I am more afraid of her than you: I am apt to believe, you cannot swallow a Kingdom, nor me neither, so soon as she can: and, if I be not Mis-informd, she can make Guinny-Pies as well as any Lady in <hi>En<g ref="char:EOLhyphen"/>gland,</hi> though it be a French Receipt: And, let me tell you, That theres no French<g ref="char:EOLhyphen"/>man of them all; of any Repute, at Court, but has tasted the sweet favor of English Gold, which I pray God may be dissolv'd in a real Vengance Pasty.</p>
+            </sp>
+            <sp>
+               <speaker>Snap-short.</speaker>
+               <p>Come, <hi>Turty,</hi> you are a Rascal to abuse a Lady whom you know was, not long a go
+<pb facs="tcp:204985:2"/>one of the <hi>Primum Mobile</hi>'s of the Kingdom, however, Me-thinks 'tis strange, your open-arse Lady, who came lately from selling ripe Oranges and Lemmons about the streets, and now being advanc'd to a R <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> Bed, should be so forgetful of her former Mechanick Condition, as to kick up her wanton heels against a person whose Extra<g ref="char:EOLhyphen"/>ction is so high, That it would puzzle a good Poet, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ay a good Herald to give an ab<g ref="char:EOLhyphen"/>solute Description of her Pedigree, derived from these Three Remarkable Judges of Hell, <hi>Eachus, Minos</hi> and <hi>Rhadamanthus.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Tutty.</speaker>
+               <p>And truly <hi>Snap-short,</hi> I wish her no other harm than barely this, seeing you have so liberally described her Pedigree, That she might be immediately sent to her Re<g ref="char:EOLhyphen"/>lations: I am confident my Lady will bare a considerable share of her Charges and accompany her part of the way: but she has other Business than to go too far on the Road: Besides she has more Discretion than to go to the utmost Stage, meerly for this Reason, lest having but small Acquaintance, and being much more short of Mo<g ref="char:EOLhyphen"/>ney than your French Lady, she should be left in the Lurch, and Pawnd to <hi>Lucifer</hi> as a Pledg for your Mistresses Honesty, which she cannot truly justify.</p>
+            </sp>
+            <sp>
+               <speaker>Snapshort.</speaker>
+               <p>Ha, <hi>Tutty,</hi> now you and I piss both in a Quill, I confess, I dare no more vindi<g ref="char:EOLhyphen"/>cate my Ladies Honesty than you dare your Ladies: For, this I believe, My Ladie's a Whore of the greater Magnitude: And, in spite of your Teeth, will carry a greater Luster than any English Lady whatsoever: Though in your own Court, if French Dogs, Ladies and Catholiques be not sufficient to put you all to a Non-plus: I will ne<g ref="char:EOLhyphen"/>ver bark in the praise of <hi>France</hi> more.</p>
+            </sp>
+            <sp>
+               <speaker>Tutty.</speaker>
+               <p>Come, you French Scundrel, have at you tooth and nail, before I will see my La<g ref="char:EOLhyphen"/>dy abused, or any of your Factious Tribe thus to reign in your Roguery: I will make no more to cut your Catholiques Throat and spill your wolfish blood, than you did in Queen <hi>Marie's</hi> daies to burn us: your French Dogs, Ladies and Catholicks have more Command at Court? Give me leave to tell you, you lye, if you deny it: And if any thing raise my Ladyes Fortune; Let me tell you, 'tis, her being a Prote<g ref="char:EOLhyphen"/>stant, who shall be protected, when your French Romish Bitch shall be pull'd Limb from Limb without starving her, as her Predecessor <hi>Jane Shore</hi> was starv'd not many Ages before.</p>
+            </sp>
+            <sp>
+               <speaker>Snapshort.</speaker>
+               <p>Come <hi>Tutty,</hi> my French Lady will find favour, when your English Madam will be glad to return to her old Function, it is not 10000 <hi>l. per annum</hi> will last your Lady <hi>ad infinitum,</hi> my Lady has taken the wisest course, who has Transported forty times, the sum, and intends to follow it soon after her self.</p>
+            </sp>
+            <sp>
+               <speaker>Tutty.</speaker>
+               <p>And good riddance of her by my Troth, when the salt Bitches leave the Kingdom, its more than probable the Romish Woolf-Doggs will follow them, and then what a hap<g ref="char:EOLhyphen"/>py Kingdom shall we have, let the whole World judge; but I am apt to believe, my Antagonist <hi>Snap-short,</hi> that your Lady rather makes provision for the Entertainment of her French Monarch, than for her Departure: yet let me tell you, let him come when he will, I will for once hazard my Life like the Old <hi>Roman Geese,</hi> rather than be<g ref="char:EOLhyphen"/>tray the Capital for I am resolved to Bark Louder, than ever they squeald, and if pos<g ref="char:EOLhyphen"/>sible will prevent those hidden M<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>schiefs though they lay them as deep as Hell, I have a quick Nose for scent, and as sharp claws, as the best of them all, then do what you dare for I Vow by the Honour of my Lady, I will Ruine you sooner or later.</p>
+            </sp>
+            <sp>
+               <speaker>Snapshort.</speaker>
+               <p>Ha, good <hi>Tutty,</hi> rather than my Lady should be ruined, I will perswade her to turn Protestant too, I am confident she will do any thing to serve her own Interest.</p>
+            </sp>
+            <sp>
+               <speaker>Tutty.</speaker>
+               <p>But <hi>Snapshort</hi> let me tell you that a <hi>French</hi> Whore will never make a good Prote<g ref="char:EOLhyphen"/>stant Lady, for if she should turn Protestant, and make a Whore of Religion, as she has of her Body, the whole World w<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uld set a mark upon her for a notorious Mur<g ref="char:EOLhyphen"/>therer both of Religion, Honesty and common Reason, and when she comes into <hi>France,</hi> her own Native Country, she must expect to be pelted like an Owl in an Ivy-Bush.</p>
+            </sp>
+            <sp>
+               <speaker>Snapshort.</speaker>
+               <p>But <hi>Tutty</hi> you mistake the Case, my Lady has an Absolution and Dispensation from his Holiness for all her Villanies that either are or may be committed during her life, though she should live to the Age of <hi>Methuselah,</hi> it seems you have called me incon<g ref="char:EOLhyphen"/>fiderable Cur, but I wish you had but a Gizard long enough to apprehend my Ladies Designs; you mistake the Case, if you imagine she came out barely to be a Whore; in short, she came for a Spy to betray both Kingdoms Interest. Do you not remem<g ref="char:EOLhyphen"/>ber <hi>Alexander</hi> the Great had a brace of notorious Whores, sent over purposely up<g ref="char:EOLhyphen"/>on the like occasion; but he had so many Guts in his Brains, not only to perceive the Intreague, but likewise a timely prevention to avoid the same.</p>
+            </sp>
+            <pb facs="tcp:204985:3"/>
+            <sp>
+               <speaker>Tutty.</speaker>
+               <p>Say you so, <hi>Snapshort,</hi> I am infinitely glad you have so ingeniously unravelled your Ladies Design, which I hope to make such use of, as to send your Lady with a Flea in her ear into her own Countrey; this is no more than has been formerly supposed; nay confirmed by several true Reports, but seeing you have owned your Ladies. In<g ref="char:EOLhyphen"/>tentions and Designs, upon which she was sent over; for as sure as my Name is <hi>Tut<g ref="char:EOLhyphen"/>ty,</hi> and by the vertue of my Protestant Mistress, I am not only resolved to bark, but bite; and if my Tongue can do no feats, my Teeth shall; though I am but a little whiffling Curr, I would have you know I am not afraid to take the best <hi>French</hi> Bitch of you all by the Throat, and so, <hi>Snapshort,</hi> stand on your Guard, for I vow I will be at you.</p>
+            </sp>
+            <sp>
+               <speaker>Snapshort.</speaker>
+               <p>Come <hi>Tutty,</hi> since you are so Chollerick, I'le strip me of my Crucifix, and begin as soon as you will, lett's shake hands, and so have at you.</p>
+            </sp>
+            <sp>
+               <speaker>Tutty.</speaker>
+               <p>Come down, there, now you are stript. Curr, ur, rrr, urr, urr, urrr, urrr;</p>
+            </sp>
+            <stage>The Dogs begin to engage, the Company speaks.</stage>
+            <sp>
+               <speaker>
+                  <hi>D.</hi> of <hi>P.</hi>
+               </speaker>
+               <p>
+                  <hi>Pray Madam give my Dog fair Play, I protest you hinder him with your Petti<g ref="char:EOLhyphen"/>coats, he cannot fasten; Madam fair Play is fair Play.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Madam G.</speaker>
+               <p>
+                  <hi>Truly Madam I thought I knew as well what belonged to Dog-fighting as your Lady<g ref="char:EOLhyphen"/>ship, but since you pretend to instruct me in your</hi> French <hi>Dog play, Pray Madam stand a little further, as you respect your own Flesh, for my little Dog is mettle to the Back; and smells a Popish Miss at a far greater distance; Pray Madam take warning, for you stand on dangerous ground: Haloo, haloo, haloo, ha brave</hi> Tutty, <hi>ha brave</hi> Snap<g ref="char:EOLhyphen"/>short; <hi>a Guinny on</hi> Tutty, <hi>two to one on</hi> Tutty; <hi>Done, quoth</hi> Monsiour; <hi>Begar, Pox take te begar, me have Lost near Tousand Pound.</hi>
+               </p>
+               <lg>
+                  <l>
+                     <hi>Tutty</hi> it seems beat <hi>Snapshort,</hi> and the Bell</l>
+                  <l>
+                     <hi>Tutty</hi> bears home in Victory: Farewell.</l>
+               </lg>
+            </sp>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London, Printed for R. B.</hi> 1681.</p>
+            <pb facs="tcp:204985:3"/>
+         </div>
+      </back>
+   </text>
+</TEI>
